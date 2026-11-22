@@ -1,0 +1,26 @@
+{
+  "heading": {
+    "family": ["Inter", "system-ui", "sans-serif"],
+    "weight": 700,
+    "lineHeight": 1.2
+  },
+  "body": {
+    "family": ["Inter", "system-ui", "sans-serif"],
+    "weight": 400,
+    "lineHeight": 1.6
+  },
+  "caption": {
+    "family": ["JetBrains Mono", "Fira Code", "monospace"],
+    "weight": 600,
+    "sizes": {
+      "small": 32,
+      "medium": 48,
+      "large": 64
+    }
+  },
+  "code": {
+    "family": ["JetBrains Mono", "Fira Code", "monospace"],
+    "weight": 400,
+    "lineHeight": 1.5
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "project": "example-video",
+  "total_scenes": 6,
+  "shots": [
+    {"scene": 1, "type": "title_card", "start_s": 0, "end_s": 3, "description": "Animated title with question hook"},
+    {"scene": 2, "type": "talking_head", "start_s": 3, "end_s": 18, "description": "Main explanation with code overlay"},
+    {"scene": 3, "type": "broll", "start_s": 18, "end_s": 23, "description": "Stock footage of coding"},
+    {"scene": 4, "type": "diagram", "start_s": 23, "end_s": 33, "description": "Architecture diagram build-up"},
+    {"scene": 5, "type": "text_overlay", "start_s": 33, "end_s": 48, "description": "Key takeaways list"},
+    {"scene": 6, "type": "logo_reveal", "start_s": 48, "end_s": 52, "description": "CTA and logo"}
+  ]
+}

@@ -1,0 +1,6 @@
+numpy>=1.26,<3
+torch>=2.2
+transformers>=4.40,<5
+jsonschema>=4.21
+requests>=2.31
+pytest>=8.0

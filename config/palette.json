@@ -1,0 +1,22 @@
+{
+  "dark": {
+    "background": "#0f1117",
+    "surface": "#1a1d27",
+    "primary": "#6c8cff",
+    "secondary": "#ff7eb3",
+    "accent": "#50e3c2",
+    "text": "#e8eaf0",
+    "muted": "#6b7280",
+    "overlay": "rgba(0, 0, 0, 0.65)"
+  },
+  "light": {
+    "background": "#f8f9fc",
+    "surface": "#ffffff",
+    "primary": "#4a6cf7",
+    "secondary": "#e84393",
+    "accent": "#00b894",
+    "text": "#1e2028",
+    "muted": "#9ca3af",
+    "overlay": "rgba(255, 255, 255, 0.75)"
+  }
+}

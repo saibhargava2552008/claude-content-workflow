@@ -1,0 +1,16 @@
+{
+  "title": "Example Video Brief",
+  "platform": "youtube_shorts",
+  "aspect_ratio": "9:16",
+  "target_duration_s": 60,
+  "audience": "developers learning web technologies",
+  "tone": "educational, conversational",
+  "hook": "Start with a surprising fact or question",
+  "call_to_action": "Follow for more tips",
+  "scenes": [
+    {"type": "title_card", "text": "Did you know?", "duration_s": 3},
+    {"type": "talking_head", "script_range": [0, 25], "overlay": "code_snippet"},
+    {"type": "broll", "query": "laptop coding", "duration_s": 5},
+    {"type": "text_overlay", "points": ["Point 1", "Point 2", "Point 3"]}
+  ]
+}

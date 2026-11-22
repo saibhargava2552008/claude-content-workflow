@@ -1,0 +1,42 @@
+# Project media and outputs
+projects/
+output/
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.mp3
+*.m4a
+*.flac
+*.aac
+*.ogg
+*.wav
+!assets/audio/**/*.wav
+!assets/audio/**/*.ogg
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+renderer/node_modules/
+
+# Caches and models
+*.npy
+.content-workflow-cache/
